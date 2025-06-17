@@ -1,4 +1,4 @@
-# 🎭 Real-Time Emotion Detection using YOLOv8 and Supervision
+# Real-Time Emotion Detection using YOLOv8 and Supervision
 
 This project demonstrates real-time **emotion detection** from video input using a **YOLOv8** model fine-tuned on a custom emotion detection dataset. It uses the **Supervision** library for drawing bounding boxes and class labels.
 
