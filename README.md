@@ -25,14 +25,6 @@ The model detects the following 8 emotion classes:
 | 6  | Sad       |
 | 7  | Surprise  |
 
----
-
-## 🎥 Output Demo
-
-Here’s a short demo showing the real-time emotion detection in action:
-
-![Research Paper Summarizer Interface](emotionVideo_output.mp4 "Main application interface")
-> 📌 *Click the image to view the video on YouTube.*
 
 ---
 
