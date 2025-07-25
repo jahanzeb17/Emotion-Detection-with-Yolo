@@ -27,10 +27,20 @@ The model detects the following 8 emotion classes:
 
 ---
 
+## 🎥 Output Demo
+
+Here’s a short demo showing the real-time emotion detection in action:
+
+[![Watch the output video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+
+> 📌 *Click the image to view the video on YouTube.*
+
+---
+
 ## 🚀 Technologies Used
 
-- [YOLOv8](https://github.com/ultralytics/ultralytics) – Real-time object detection model
-- [Supervision](https://github.com/roboflow/supervision) – For visualizing detections
+- [YOLOv8](https://github.com/ultralytics/ultralytics) – Real-time object detection model  
+- [Supervision](https://github.com/roboflow/supervision) – For visualizing detections  
 - Python
 
 ---
