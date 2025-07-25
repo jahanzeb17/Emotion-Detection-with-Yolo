@@ -31,7 +31,7 @@ The model detects the following 8 emotion classes:
 
 Here’s a short demo showing the real-time emotion detection in action:
 
-[![Watch the output video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![Watch the output video](emotionVideo_output.mp4)]
 
 > 📌 *Click the image to view the video on YouTube.*
 
